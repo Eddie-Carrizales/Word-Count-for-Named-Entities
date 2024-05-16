@@ -1,7 +1,7 @@
 # Word-Count-for-Named-Entities
 Computing the word frequency for named entities in a large file (Pride and Prejudice by Jane Austen) using PySpark and Map Reduce technique.
 
-Link: [the Gutenberg project](https://www.gutenberg.org/)
+Link: [The Gutenberg project](https://www.gutenberg.org/)
 
 Instructions for running the code:
 
